@@ -46,11 +46,11 @@ Standard Shader를 사용하면, 다양한 유형의 쉐이더[^2]를 사용하�
 
 ## 2. HDR (**High Dynamic Range**)
 
-HDR은 흔히 0~1 범위를 벗어난 색상을 말합니다. 예를 들어, 태양은 파란 하늘보다 10배 더 밝을 수 있습니다. 자세한 내용은 Unity Manual의 [HDR](https://docs.unity3d.com/2021.1/Documentation/Manual/HDR.html )페이지를 참조하십시오.
+HDR은 흔히 0~1 범위를 벗어난 색상을 말합니다. 예를 들어, 태양은 파란 하늘보다 10배 더 밝을 수 있습니다. 자세한 내용은 Unity Manual의 [HDR](https://docs.unity3d.com/2021.1/Documentation/Manual/HDR.html)페이지를 참조하십시오.
 
 ![A scene using High Dynamic Range. The sunlight reflecting in the car window appears far brighter than other objects in the scene, because it has been processed using HDR](https://docs.unity3d.com/2021.1/Documentation/uploads/Main/GlowWithHdrAdjusted.jpg)
 
-<span style="color:gray">HDR을 사용한 씬 입니다. 차량의 창문에서 반사되는 햇빛은 HDR을 이용해 처리했기 때문에 현장의 다른 물체보다 훨씬 밝게 보입니다.</span>
+<span style="color:gray">HDR을 사용한 씬 입니다. 차량의 창문에서 반사되는 햇빛은 HDR을 이용해 처리했기 때문에 현장의 다른 오브젝트보다 훨씬 밝게 보입니다.</span>
 
 ---
 
